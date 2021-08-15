@@ -1,2 +1,4 @@
 # AGE_CALCULATOR_WITH_USER_ACCOUNT
-This
+This is our Andriod application minproject helped me to build an age calculator application.
+
+
